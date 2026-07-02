@@ -59,7 +59,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Chanduveldi2211/ai-hr-management.git
+git clone https://github.com/Pcveldi22/ai-hr-management.git
 cd ai-hr-management
 export OPENAI_API_KEY=your_key_here
 docker-compose up -d
@@ -91,4 +91,4 @@ ai-hr-management/
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-<p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a> | Senior Software Engineer</p>
+<p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a> | Senior Software Engineer</p>
